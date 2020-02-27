@@ -12,9 +12,6 @@
 </script>
 
 <svelte:window bind:scrollY={y}/>
-<svelte:head>
-	<title>PeachPlugin job application</title>
-</svelte:head>
 <Topbar/>
 <main>
 	<section id="about">
