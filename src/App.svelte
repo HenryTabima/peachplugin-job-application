@@ -64,5 +64,11 @@
 		font-size: 1.2rem;
 		font-weight: bold;
 		cursor: pointer;
+		transition: all .3s;
 	}
+	.cta:hover {
+		color: #f27442;
+		transform: scale(1.05);
+	}
+
 </style>
