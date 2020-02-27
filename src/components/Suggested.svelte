@@ -1,6 +1,6 @@
 <div class="container">
   <header>
-    <img src="peach-3x.png" alt="peach plugin logo 3x">
+    <img src="peach.png" alt="peach plugin logo 3x">
     <span>Welcome HenryTG</span>
   </header>
   <main>

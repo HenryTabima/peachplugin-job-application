@@ -1,6 +1,6 @@
 <section>
   <header>
-    <img alt="peach plugin logo" src="peach-3x.png" width="50px" height="50px"/>
+    <img alt="peach plugin logo" src="peach.png" width="50px" height="50px"/>
     <h1>
       My job application for PeachPlugin
     </h1>
