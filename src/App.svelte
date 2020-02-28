@@ -42,7 +42,9 @@
 	}
 
 	section {
-		height: 100vh;
+		box-sizing: border-box;
+		padding: 10px 0;
+		min-height: 100vh;
 		display: flex;
 		justify-content: center;
 		align-items: center;
