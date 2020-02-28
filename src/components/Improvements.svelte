@@ -32,16 +32,11 @@ a {
 }
 .container {
   display: flex;
+  justify-content: center;
 }
 .container>div {
-  flex: 1;
   display: flex;
   align-items: center;
   flex-direction: column;
-}
-.cta {
-  margin-top: 20px;
-  font-size: 1.2rem;
-  font-weight: bold;
 }
 </style>
