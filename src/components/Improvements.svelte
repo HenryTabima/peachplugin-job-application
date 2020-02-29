@@ -36,6 +36,7 @@ a {
 }
 .container>div {
   display: flex;
+  padding: 0 15px;
   align-items: center;
   flex-direction: column;
 }
